@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 Enterprise Knowledge Assistant (Agentic RAG + LLaMA 3)
 
 This is an end-to-end intelligent assistant that helps employees find answers from internal HR, IT, and policy documents using Retrieval-Augmented Generation and LLaMA 3 (8B via Ollama).
@@ -30,5 +29,4 @@ streamlit run app.py
 - "Who handles VPN issues?"
 - "What’s the process to reimburse client dinner?"
 =======
-# Enterprise-Knowledge-Assistant---Agentic-RAG
->>>>>>> 233fbb35fd3912723da6ba3b411e16989217b0d0
+
